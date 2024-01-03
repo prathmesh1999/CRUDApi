@@ -7,7 +7,7 @@ import { Observable } from 'rxjs';
 })
 export class UserServiceService {
 
-  private baseUrl = 'https://aak5tdb4gf.execute-api.us-east-1.amazonaws.com/dev/user';
+  private baseUrl = 'https://z3kzi2486g.execute-api.us-east-1.amazonaws.com/dev/user';
 
 
   constructor(private http:HttpClient) { }
